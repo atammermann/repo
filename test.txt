@@ -1,1 +1,1 @@
-git push origin --delete <branchName>
+suppression branche distante : git push origin --delete <branchName>
